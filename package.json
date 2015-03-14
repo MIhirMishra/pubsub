@@ -1,0 +1,21 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "soup to bits nodejs pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pubsub",
+    "nodejs"
+  ],
+  "author": "Mihir",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "express": "^3.5.12",
+    "redis": "^0.12.1",
+    "underscore": "^1.8.2"
+  }
+}
